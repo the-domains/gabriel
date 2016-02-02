@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[gabriel]]></title>
         <description><![CDATA[gabriel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gabriel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 17:34:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 17:42:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gabriel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><h1></h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65225bf6-5654-41e8-bf8e-92607e63fa74.jpg"></article>]]></description>
-            <link>undefinedec079e2d-537a-486c-8670-2fb435e2236a/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/893b6e74-f5b5-4cbf-9881-df1ebdaee8b9.jpg">]]></description>
+            <link>https://thegrid.ai/gabriel/1e90b105-f132-4259-9090-9325d2744d56/index.html</link>
+            <guid isPermaLink="false">1e90b105-f132-4259-9090-9325d2744d56</guid>
+            <pubDate>Tue, 02 Feb 2016 17:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><h1></h1><p>Parlementia, Guéthary © Cristian Corradin</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcf4dc1343546ee2369ed21bda6e553b4f97ee4c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/gabriel/ec079e2d-537a-486c-8670-2fb435e2236a/index.html</link>
             <guid isPermaLink="false">ec079e2d-537a-486c-8670-2fb435e2236a</guid>
             <pubDate>Tue, 02 Feb 2016 17:33:19 GMT</pubDate>
         </item>
